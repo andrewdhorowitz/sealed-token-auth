@@ -44,5 +44,11 @@
   },
   "engines": {
     "node": ">=20"
-  }
+  },
+  "author": "Andrew Horowitz",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewdhorowitz/sealed-token-auth.git"
+  },
+  "homepage": "https://github.com/andrewdhorowitz/sealed-token-auth#readme"
 }
